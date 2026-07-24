@@ -1,0 +1,7 @@
+plate,date,carType,speed,seatbeltFastened
+ABC123,2026-07-24,PrivateCar,95,true
+XYZ789,2026-07-24,Truck,58,false
+BUS001,2026-07-24,Bus,85,true
+ABC123,2026-07-25,PrivateCar,70,false
+TRK500,2026-07-25,Truck,75,false
+CAR777,2026-07-25,PrivateCar,80,true
